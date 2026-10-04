@@ -4,11 +4,15 @@ A local-first finance toolkit for exploring loan payments, savings growth, and m
 
 ## App Preview
 
-![Morrow Finance Calculator on desktop](public/morrow-desktop.png)
+<p align="center">
+	<img src="public/morrow-desktop.png" alt="Full Morrow Finance Calculator dashboard on desktop" width="100%">
+</p>
+<p align="center"><em>Desktop dashboard</em></p>
 
 <p align="center">
-	<img src="public/morrow-mobile.png" alt="Morrow Finance Calculator on a mobile screen" width="320">
+	<img src="public/morrow-mobile.png" alt="Mobile calculator form with loan inputs and estimated payment" width="320">
 </p>
+<p align="center"><em>Mobile calculator</em></p>
 
 ## Features
 
